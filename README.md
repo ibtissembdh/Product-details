@@ -21,5 +21,5 @@
       
    * home page:   
      
-     ![home page image](C:\Users\BLUEinfo\Desktop\1.PNG)
+     ![home page image](Images\1.PNG)
      
