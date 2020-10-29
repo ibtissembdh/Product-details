@@ -21,5 +21,5 @@
       
    * home page:   
      
-     ![home page image](Images\1.PNG)
+     ![home page image](EXERCICE 4\Images\1.PNG)
      
