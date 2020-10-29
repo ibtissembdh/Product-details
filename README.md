@@ -4,7 +4,7 @@
 * a home page containing a small menu whose elements:
 
     * ADD a product button, user cann __add a product__.
-    * search barre , user can __search__ about a product typing name, descrition, price of the product .
+    * LIVE search barre , user can __search__ about a product typing name, descrition, price of the product __onkeyup__.
 
 * the home page contains the list of products: 
 
