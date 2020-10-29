@@ -19,7 +19,4 @@
       3. An add article page allowing you to insert a new article __WITHOUT reloading the page.__
       4. __user Authentication it's not used__.
       
-   * home page:   
-     
-     ![home page image](EXERCICE4\Images\1.PNG)
-     
+   
