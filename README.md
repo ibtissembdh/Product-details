@@ -20,3 +20,8 @@
       4. __user Authentication it's not used__.
       
    
+   * home page:
+   
+   ![home page image](https://github.com/ibtissembdh/ajouter-des-articles-/blob/master/EXERCICE%204/Images/1.PNG)
+      
+   
